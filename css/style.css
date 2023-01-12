@@ -1,0 +1,18 @@
+/* Your custom styles */
+.carousel-caption {
+    bottom: 35%;
+}
+.pog .pricing-card .price .number:after {
+    content: "/пог.м";
+    font-size: 1.5rem;
+
+}
+.sizkm .pricing-card .price .number:after {
+
+    font-size: 1.5rem;
+
+}
+.siz .pricing-card .price .number{
+    font-size: 4rem;
+
+}
